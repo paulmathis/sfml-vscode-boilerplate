@@ -7,4 +7,6 @@ Thumbs.db
 .DS_Store
 
 # Project specific
-#
+
+# VS-Code
+.vscode/ipch
